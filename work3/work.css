@@ -1,0 +1,27 @@
+.div2{
+}
+
+.oll{
+    text-align: center;
+    background-color: aqua;
+    width: 850px;
+    padding: 20px;
+    margin: auto;
+}
+
+.edit{
+    color: blue;
+}
+
+.edit:hover{
+background-color: blue;
+color: wheat;
+}
+
+.delete{
+    color: brown;
+}
+.delete:hover{
+    background-color: brown;
+    color: wheat;
+}
